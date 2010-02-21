@@ -1,4 +1,4 @@
-BTV2iTivo
+BTV2Tivo
 v0.1 2009-09-08
 Copyright 2009 Bob Menke
 
